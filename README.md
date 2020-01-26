@@ -1,6 +1,6 @@
 # ANZVirtualInternship
 
-A sample solution for the ANZ Virtual Internship: Insidesherpa Program. 
+A sample solution for the ANZ Virtual Internship: Insidesherpa Program (Top performer in the Data@ANZ program)
 
 ## Dataset ##
 dataset: ANZ dataset used for the analysis
